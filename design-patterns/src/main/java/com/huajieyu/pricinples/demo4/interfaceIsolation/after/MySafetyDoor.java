@@ -1,4 +1,4 @@
-package com.huajieyu.pricinples.demo04.interfaceIsolation.after;
+package com.huajieyu.pricinples.demo4.interfaceIsolation.after;
 
 public class MySafetyDoor implements AntiTheft, Fireproof, Waterproof {
     @Override

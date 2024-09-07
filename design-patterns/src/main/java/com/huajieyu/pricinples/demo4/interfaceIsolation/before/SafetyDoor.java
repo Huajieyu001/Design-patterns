@@ -1,4 +1,4 @@
-package com.huajieyu.pricinples.demo04.interfaceIsolation.before;
+package com.huajieyu.pricinples.demo4.interfaceIsolation.before;
 
 public interface SafetyDoor {
     void antiTheft();

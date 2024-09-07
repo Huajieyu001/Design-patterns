@@ -1,4 +1,4 @@
-package com.huajieyu.pricinples.demo04.interfaceIsolation.before;
+package com.huajieyu.pricinples.demo4.interfaceIsolation.before;
 
 import org.junit.jupiter.api.Test;
 
